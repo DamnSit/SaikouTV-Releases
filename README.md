@@ -10,5 +10,3 @@ Official APK releases for SaikouTV一Yomitan
 ## Download
 
 Download the latest APK from [Releases](https://github.com/DamnSit/SaikouTV-Releases/releases/latest).
-
-GitHub updates release downloads automatically. Authenticated Firebase metrics refresh every five minutes without exposing device records or Firebase credentials.
