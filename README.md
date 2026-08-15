@@ -1,6 +1,6 @@
 # SaikouTV Releases
 
-Official APK releases for SaikouTV and SaikouTV Admin.
+Official APK releases for SaikouTV-Yomitan
 
 [![Latest release](https://img.shields.io/github/v/release/DamnSit/SaikouTV-Releases?display_name=tag&sort=semver&label=latest%20release)](https://github.com/DamnSit/SaikouTV-Releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/DamnSit/SaikouTV-Releases/1.1.5/total?label=downloads)](https://github.com/DamnSit/SaikouTV-Releases/releases)
